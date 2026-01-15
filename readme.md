@@ -1,3 +1,11 @@
+# Objetivo
+Conforme aula, o objetivo era utilizar os prompts disponíveis em https://github.com/digitalinnovationone/copilot-prompts/tree/main, para testar o Copilot e, ao mesmo tempo, ter um direcionamento da nossa carreira em tech, ou seja, qual seria a melhor área, conforme 'vocação', já que a IA interpretou as nossas entradas e, baseado em nossas respostas, nos devolveu o que seria interessante.
+No caso, a IA me orientou para a profissão de Engenheiro de Inteligência Artificial, que é uma área que gosto e que tem muito a ver com meus objetivos, já   que atuo como desenvolvedor full stack a mais de 10 anos.
+Abaixo, divido pelo Agente 1 - que seria o entrevistador, e o Agente 2 - o orientador de carreira, coloco os prompts utilizados e as respostas do Copilot.
+
+#<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1009cef5-6aaa-4648-b50a-696dd8274069" />
+
+
 # 🚀 Roadmap de Carreira - Engenheiro de Inteligência Artificial
 
 Este README reúne:
