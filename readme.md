@@ -4,6 +4,180 @@ No caso, a IA me orientou para a profissão de Engenheiro de Inteligência Artif
 Abaixo, divido pelo Agente 1 - que seria o entrevistador, e o Agente 2 - o orientador de carreira, coloco os prompts utilizados e as respostas do Copilot.
 
 # 📢 Agente 1 -> Entrevistador
+# 📌 Entrevista de Carreira em Tecnologia
+
+## 🎯 Missão
+Conduzir uma entrevista estruturada de 7 perguntas para entender:
+- Interesses e motivações  
+- Experiência prévia  
+- Disponibilidade de estudo  
+- Preferências de trabalho  
+- Objetivos profissionais  
+
+Após coletar as informações, sugerir 3 carreiras ranqueadas e transferir para o Agent 2.
+
+---
+
+## 📝 Fase 1: Entrevista (7 perguntas)
+
+**Pergunta 1:**  
+"Olá! Vou te ajudar a descobrir a melhor carreira em tecnologia para você.  
+Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
+
+**Resposta 1:**  
+> resolver problemas  
+
+---
+
+**Pergunta 2:**  
+"Legal! E você já tem experiência na área de tecnologia ou está começando do zero?"
+
+**Resposta 2:**  
+> tenho mais de 10 anos de experiência  
+
+---
+
+**Pergunta 3:**  
+"Entendi! Quantas horas por semana você consegue dedicar aos estudos?"
+
+**Resposta 3:**  
+> 8 horas  
+
+---
+
+**Pergunta 4:**  
+"Perfeito! No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?"
+
+**Resposta 4:**  
+> código e dados  
+
+---
+
+**Pergunta 5:**  
+"Ótimo! Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?"
+
+**Resposta 5:**  
+> crescer na carreira atual ou conseguir uma posição melhor  
+
+---
+
+**Pergunta 6:**  
+"Show! Quais assuntos ou tecnologias mais despertam seu interesse? Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura..."
+
+**Resposta 6:**  
+> Inteligência artificial, desenvolvimento de sistemas, eletrônica, jogos e mobile  
+
+---
+
+**Pergunta 7:**  
+"Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?"
+
+**Resposta 7:**  
+> Sim  
+
+---
+
+**Conclusão da Entrevista:**  
+"Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você..."
+
+---
+
+## 📊 Fase 2: Análise e Sugestão
+
+Com base no perfil, foram identificadas 3 carreiras promissoras:
+
+---
+
+### 🥇 1º Lugar: Engenheiro de Inteligência Artificial – 18/20
+
+**💡 Por que combina com você:**  
+- Gosta de resolver problemas e tem experiência sólida.  
+- Interesse direto em IA e dados, além de código.  
+- Boa disponibilidade de estudo para se atualizar em frameworks e modelos modernos.  
+
+**⚖️ O que esperar:**  
+- **Vantagens:** Alta demanda global; projetos desafiadores e inovadores.  
+- **Desafios:** Constante atualização em algoritmos e ferramentas; competição internacional.  
+
+**📈 Mercado:**  
+IA é uma das áreas mais aquecidas, mas varia conforme região e experiência.  
+
+---
+
+### 🥈 2º Lugar: Desenvolvedor Full Stack (Web & Mobile) – 17/20
+
+**💡 Por que combina com você:**  
+- Interesse em desenvolvimento de sistemas e mobile.  
+- Experiência prévia acelera ramp-up.  
+- Gosta de código e pode atuar em várias camadas (frontend, backend, banco de dados).  
+
+**⚖️ O que esperar:**  
+- **Vantagens:** Versatilidade; grande demanda em startups e empresas digitais.  
+- **Desafios:** Necessidade de dominar múltiplas tecnologias; pressão por prazos curtos.  
+
+**📈 Mercado:**  
+Full Stack continua sendo muito procurado, especialmente em empresas que buscam profissionais multifuncionais.  
+
+---
+
+### 🥉 3º Lugar: Engenheiro de Jogos e Realidade Interativa – 15/20
+
+**💡 Por que combina com você:**  
+- Interesse claro em jogos e eletrônica.  
+- Experiência prévia pode ser aproveitada em lógica, sistemas e design.  
+- Área criativa e técnica ao mesmo tempo.  
+
+**⚖️ O que esperar:**  
+- **Vantagens:** Projetos criativos e inovadores; unir paixão por jogos com carreira.  
+- **Desafios:** Mercado competitivo; exige domínio de engines e otimização gráfica.  
+
+**📈 Mercado:**  
+Jogos e mobile têm crescimento constante, mas a demanda varia muito por região e nicho.  
+
+---
+
+## 📊 Panorama de Mercado (Análise Complementar)
+
+- **Crescimento acelerado:** O setor cresceu 21% em 2024 e segue em expansão em 2025–2026.  
+- **Alta demanda:** Estima-se necessidade de mais de 800 mil profissionais de TI no Brasil até 2025.  
+- **Áreas em destaque:** IA, análise de dados, segurança cibernética, desenvolvimento web/mobile e nuvem.  
+- **Ranking LinkedIn 2026:** Profissões ligadas à tecnologia dominam os empregos que mais devem crescer no Brasil.  
+
+---
+
+## 📈 Comparativo de Áreas Promissoras
+
+| Área                  | Demanda de Mercado | Ramp-up até Júnior | Potencial de Liderança | Aderência ao Perfil |
+|-----------------------|--------------------|-------------------|------------------------|---------------------|
+| Inteligência Artificial | Muito alta        | Médio (2–3 anos)  | Alto                   | Excelente           |
+| Full Stack & Mobile   | Alta               | Rápido (1–2 anos) | Médio/Alto             | Muito bom           |
+| Jogos & Realidade     | Médio/Alto         | Médio (2–3 anos)  | Médio                  | Bom                 |
+
+---
+
+## 🎯 Recomendações Estratégicas
+
+1. Apostar em **IA e dados** para liderança estratégica.  
+2. Manter versatilidade em **Full Stack/Mobile** para empregabilidade ampla.  
+3. Explorar **Jogos/Realidade** como diferencial criativo.  
+4. Investir em **certificações e projetos práticos** para acelerar ascensão.  
+
+---
+
+## 🔄 Fase 3: Handoff para Agent 2
+
+Quando o usuário escolher uma carreira:  
+> "Excelente escolha! Vou te passar para meu colega especialista em (CARREIRA ESCOLHIDA). Ele vai montar todo o plano de estudos personalizado para você!"
+
+**Transferência inclui:**  
+- Nome da carreira escolhida  
+- Horas disponíveis por semana  
+- Nível de experiência  
+- Objetivo (primeiro emprego/transição/crescimento)  
+- Preferência (pessoas/dados/código)  
+- Interesses técnicos mencionados  
+
+------
 ------
 
 # :loudspeaker: Agente 2 -> Orientador
