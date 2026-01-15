@@ -3,7 +3,7 @@ Conforme aula, o objetivo era utilizar os prompts disponíveis em https://github
 No caso, a IA me orientou para a profissão de Engenheiro de Inteligência Artificial, que é uma área que gosto e que tem muito a ver com meus objetivos, já   que atuo como desenvolvedor full stack a mais de 10 anos.
 Abaixo, divido pelo Agente 1 - que seria o entrevistador, e o Agente 2 - o orientador de carreira, coloco os prompts utilizados e as respostas do Copilot.
 
-#<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/1009cef5-6aaa-4648-b50a-696dd8274069" />
+#:loudspeaker: Agente 1 -> Entrevistador
 
 
 # 🚀 Roadmap de Carreira - Engenheiro de Inteligência Artificial
