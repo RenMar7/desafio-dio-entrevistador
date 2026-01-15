@@ -3,9 +3,11 @@ Conforme aula, o objetivo era utilizar os prompts disponíveis em https://github
 No caso, a IA me orientou para a profissão de Engenheiro de Inteligência Artificial, que é uma área que gosto e que tem muito a ver com meus objetivos, já   que atuo como desenvolvedor full stack a mais de 10 anos.
 Abaixo, divido pelo Agente 1 - que seria o entrevistador, e o Agente 2 - o orientador de carreira, coloco os prompts utilizados e as respostas do Copilot.
 
-#:loudspeaker: Agente 1 -> Entrevistador
+# 📢 Agente 1 -> Entrevistador
+------
 
-
+# :loudspeaker: Agente 2 -> Orientador
+>
 # 🚀 Roadmap de Carreira - Engenheiro de Inteligência Artificial
 
 Este README reúne:
@@ -181,16 +183,6 @@ Gerar um plano completo de estudos com:
 - Usuário: Pediu lista de projetos avançados  
 - Copilot: Sugeriu 5 projetos avançados de portfólio  
 - Usuário: Pediu saída em Markdown  
-- Copilot: Entregou versão em Markdown  
-- Usuário: Pediu prompt completo  
-- Copilot: Entregou prompt original em Markdown  
-- Usuário: Pediu toda saída em Markdown  
-- Copilot: Entregou versão consolidada  
-- Usuário: Pediu toda interação em Markdown  
-- Copilot: Entregou histórico completo  
-- Usuário: Pediu README final consolidado  
-- Copilot: Entregou este documento final  
-
 ---
 
 ## ✨ Conclusão
@@ -203,4 +195,4 @@ Este README consolida:
 
 Lembre-se: o mais importante é a **constância**, não a velocidade.  
 Comece pela Semana 1 e vá no seu ritmo. 🚀
-
+>
