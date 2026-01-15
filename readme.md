@@ -6,7 +6,7 @@ Abaixo, divido pelo Agente 1 - que seria o entrevistador, e o Agente 2 - o orien
 ------
 
 # 📢 Agente 1 -> Entrevistador
-# 📌 Entrevista de Carreira em Tecnologia
+## 📌 Entrevista de Carreira em Tecnologia
 
 ## 🎯 Missão
 Conduzir uma entrevista estruturada de 7 perguntas para entender:
@@ -158,9 +158,10 @@ Jogos e mobile têm crescimento constante, mas a demanda varia muito por região
 4. Investir em certificações e projetos práticos  
 
 ------
+------
 
 # :loudspeaker: Agente 2 -> Orientador
-# 🚀 Roadmap de Carreira - Engenheiro de Inteligência Artificial
+## 🚀 Roadmap de Carreira - Engenheiro de Inteligência Artificial
 
 Este README reúne:
 1. Prompt original  
